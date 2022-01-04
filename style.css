@@ -39,6 +39,9 @@ h2{
     background-repeat: no-repeat;
     background-position: right;
 }
+#section-right{
+    padding-right: 10%;
+}
 .experience{
     background-image: url(images/exp-bg.png);
     background-repeat: no-repeat;
